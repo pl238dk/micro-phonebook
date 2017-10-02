@@ -1,0 +1,23 @@
+id	name	nickname
+id_rel	relation
+id_name	id_rel
+id_name	notes
+id_name pri_num	pri_add	pri_email
+id_num	num	num_type	notes
+id_add	street	zip	notes
+id_email	add	notes
+
+
+CREATE TABLE name ()
+CREATE TABLE relationship ()
+CREATE TABLE phone ()
+CREATE TABLE address ()
+CREATE TABLE email ()
+
+CREATE TABLE name_relationship ()
+CREATE TABLE name_notes ()
+CREATE TABLE name_address ()
+CREATE TABLE name_email ()
+CREATE TABLE name_phone ()
+
+CREATE TABLE main ()
